@@ -6,10 +6,6 @@ easy-to-read syntax, which makes it an ideal choice for beginners and experts al
 we will explore some of the key features of Python and why it is such a popular choice for
 programmers.
 
-Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. 
-
-Here is a change with **Bold** and more description. 
-
 ![Python logo](https://www.python.org/static/img/python-logo@2x.png)
 
 ## Why Python is Popular
@@ -48,8 +44,7 @@ and create custom tools for working with GIS data.
 ## Getting Started with Python
 ___________
 To get started with Python, you will need to download and install the Python software. You can
-download the latest version of Python from the official *[Python website] (https://www.python.org
-/downloads)*. Once you have installed Python, you can start writing and running code.
+download the latest version of Python from the official <a href="https://www.python.org">Python website</a> (https://www.python.org/downloads). Once you have installed Python, you can start writing and running code.
 To write code in Python, you can use any text editor or integrated development environment (IDE).
 Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio
 Code.
@@ -58,12 +53,12 @@ Code.
 ___________
 Python has a wide range of libraries available that provide additional functionality for different
 tasks. Some of the most popular libraries include:
-| **Library**       | Description
-| :--------------   | :----------
-| **NumPy**         | A library for working with arrays and matrices.
-| **Pandas**        | A library for working with data frames and data analysis.
-| **Matplotlib**    | A library for creating visualizations and plots.
-| **Scikit-learn**  | A library for machine learning and data mining.
+| **Library**       | Description                                               |
+| ----------------- | ---------------------------------------------------       |
+| **NumPy**         | A library for working with arrays and matrices.           |
+| **Pandas**        | A library for working with data frames and data analysis. |
+| **Matplotlib**    | A library for creating visualizations and plots.          |
+| **Scikit-learn**  | A library for machine learning and data mining.           |
 
 ## Python Functions
 ___________
@@ -111,12 +106,12 @@ why I love it.
 ___________
 
 Here are some helpful resources for learning more about Python:
-- *[Python.org] (https://www.python.org)* - The official website for Python, with a wealth of information and resources for
+- <a href="https://www.python.org" target="_blank">Python.org</a> - The official website for Python, with a wealth of information and resources for
 learning the language.
-- *[Python for Data Science Handbook] (https://jakevdp.github.io/PythonDataScienceHandbook)* - A free online book that provides a comprehensive
-introduction
+- <a href="https://jakevdp.github.io/PythonDataScienceHandbook" target="_blank">Python for Data Science Handbook</a> - A free online book that provides a comprehensive introduction
 ___________
 *Article content is generated using ChatGPT*
+
 
 
 
